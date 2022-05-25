@@ -4,7 +4,9 @@
 					margin-right: 25%;
 					border: 2px solid black;
 					padding: 15px 15px 15px 15px;
-					font-family: century-gothic;
+					font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+					line-height: 1.9em;
+					font-size: 130%;
 				}
 				h1, h2 {
 				color: #612a08;
@@ -12,3 +14,29 @@
 			h1.disc, h2.disc {
 								color: #ff0000;
 							}
+						body.disc {
+							font-size: 150%;
+							font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+							
+						}
+	h2.dis {
+	color: #111;
+	line-height: 1.9em;
+	border-color: black;
+	box-shadow: 5px 16px 5px;
+	border-radius: 15px;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #7d3e39;
+	padding: 25px;
+
+	margin: 130px;
+	margin-right: 250px;
+}
+	a {
+	text-align: center;
+	}
+	
+	
+	
+	
